@@ -1,0 +1,33 @@
+
+.container1{
+    width: 100%;
+    margin: auto;
+}
+.container111 {
+    max-width: 1920px;
+    margin: auto;
+}
+.container11{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.bglinear {
+  background: linear-gradient(180deg, #F4F7FE 0%, rgba(244, 247, 254, 0.5) 100%);
+}
+
+.bglinear2 {
+  background: linear-gradient(144.96deg, #F4F7FE 1.92%, rgba(244, 247, 254, 0.5) 100%);
+border-radius: 10px;
+
+}
+.bglinear3 {
+  background: linear-gradient(179.35deg, #F4F7FE 0.51%, rgba(244, 247, 254, 0) 99.4%);
+  border-radius: 10px;
+}
+.bglinear4 {
+  background: linear-gradient(94.21deg, #F4F7FE 0.24%, rgba(244, 247, 254, 0.5) 100%);
+}
+ .bglinear5 {
+  background: linear-gradient(92.31deg, #2389FF 0.74%, rgba(35, 137, 255, 0.5) 98.19%);
+}
